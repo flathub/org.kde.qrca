@@ -149,8 +149,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-1.7.0.tar.xz",
-                    "sha256": "7d854975185cf740de486d84f1e2ec3e4eadb66ac9fb897214cba9ab8cc492b1",
+                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-1.8.1.tar.xz",
+                    "sha256": "00028ae4df99e250518345ea28d9cdf49d700e9acac482734bb51384da11f945",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242933,
@@ -170,8 +170,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.1/src/qrca-25.04.1.tar.xz",
-                    "sha256": "3b24933c5e88d4dbde42c5f76dc681a058c824c4b22f0415f1be5a57e582a47e",
+                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/qrca-25.04.2.tar.xz",
+                    "sha256": "25f5d1e025c6b061ad5798fbbbb2ae8591aa42d00556e3a7f2110ad062181a25",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 261558,
