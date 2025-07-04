@@ -128,8 +128,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/6.13/networkmanager-qt-6.13.0.tar.xz",
-                    "sha256": "9a9e3595a1b9816b2737b0416b9d92b76e2b0ca0989d0ef65a95e5f895ac36c1",
+                    "url": "https://download.kde.org/stable/frameworks/6.15/networkmanager-qt-6.15.0.tar.xz",
+                    "sha256": "ac41786342b106fe7457d414e2d79289c6d720dcfaa58c271c50c8e4a754b39b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
@@ -149,8 +149,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-1.8.1.tar.xz",
-                    "sha256": "00028ae4df99e250518345ea28d9cdf49d700e9acac482734bb51384da11f945",
+                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-1.9.0.tar.xz",
+                    "sha256": "21314a91f26b1c962def3fd7ff2e762d3358b075f63f4d7e0144fb2c63b7ebc7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242933,
