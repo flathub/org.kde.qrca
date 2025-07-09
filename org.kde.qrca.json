@@ -107,8 +107,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/archive/1.52.0/NetworkManager-1.52.0.tar.gz",
-                    "sha256": "2ebe60a1497a9650d58336b73413d838189b04543365b3dbc22e1eb8023d205f",
+                    "url": "https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/archive/1.52.1/NetworkManager-1.52.1.tar.gz",
+                    "sha256": "a19bc229040b6e10b18da18021a69fb2f2eff44fc5a09ea6ecadf81d695d4e52",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 21197,
