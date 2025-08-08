@@ -107,8 +107,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/archive/1.52.1/NetworkManager-1.52.1.tar.gz",
-                    "sha256": "a19bc229040b6e10b18da18021a69fb2f2eff44fc5a09ea6ecadf81d695d4e52",
+                    "url": "https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/archive/1.54.0/NetworkManager-1.54.0.tar.gz",
+                    "sha256": "c5356e5a86b351dc79d23c8685d02b91917d1f107628c97d370c6441a8322a93",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 21197,
@@ -128,8 +128,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/6.13/networkmanager-qt-6.13.0.tar.xz",
-                    "sha256": "9a9e3595a1b9816b2737b0416b9d92b76e2b0ca0989d0ef65a95e5f895ac36c1",
+                    "url": "https://download.kde.org/stable/frameworks/6.17/networkmanager-qt-6.17.0.tar.xz",
+                    "sha256": "d83beae867fb7d669886f513893f8eec58b5d7a24b429d89dc5c6c08b7a3f4e0",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
