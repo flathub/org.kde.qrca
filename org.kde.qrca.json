@@ -93,7 +93,8 @@
                 "-Dfirewalld_zone=false",
                 "-Dlibpsl=false",
                 "-Dqt=false",
-                "-Dnm_cloud_setup=false"
+                "-Dnm_cloud_setup=false",
+                "-Dnbft=false"
             ],
             "cleanup": [
                 "/bin",
@@ -107,8 +108,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/archive/1.52.1/NetworkManager-1.52.1.tar.gz",
-                    "sha256": "a19bc229040b6e10b18da18021a69fb2f2eff44fc5a09ea6ecadf81d695d4e52",
+                    "url": "https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/archive/1.54.0/NetworkManager-1.54.0.tar.gz",
+                    "sha256": "c5356e5a86b351dc79d23c8685d02b91917d1f107628c97d370c6441a8322a93",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 21197,
@@ -170,8 +171,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.3/src/qrca-25.04.3.tar.xz",
-                    "sha256": "a6e12d502014348ce64a8993f62c020c32f9e47b138e6da7088bf11af647bd47",
+                    "url": "https://download.kde.org/stable/release-service/25.08.0/src/qrca-25.08.0.tar.xz",
+                    "sha256": "0dc8eca3ce7cd85903654e9a073c87d44a5362e3a066cec6c40e43bf7e7b3bdd",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 261558,
