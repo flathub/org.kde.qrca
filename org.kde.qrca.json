@@ -93,7 +93,8 @@
                 "-Dfirewalld_zone=false",
                 "-Dlibpsl=false",
                 "-Dqt=false",
-                "-Dnm_cloud_setup=false"
+                "-Dnm_cloud_setup=false",
+                "-Dnbft=false"
             ],
             "cleanup": [
                 "/bin",
