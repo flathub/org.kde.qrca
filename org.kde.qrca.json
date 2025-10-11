@@ -129,8 +129,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/6.18/networkmanager-qt-6.18.0.tar.xz",
-                    "sha256": "492836a74a03ba43facf52e827428f888f13d6e2bb8374819869707280a0310c",
+                    "url": "https://download.kde.org/stable/frameworks/6.19/networkmanager-qt-6.19.0.tar.xz",
+                    "sha256": "83ba1060080dc193c62837421e1cb796500abb3931b505ae8275c440674affc4",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
@@ -171,8 +171,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.1/src/qrca-25.08.1.tar.xz",
-                    "sha256": "aa6e4dfccea83746f82750a1f27e3b2ed8e35edad3181257ee4e86e2e0aabbd6",
+                    "url": "https://download.kde.org/stable/release-service/25.08.2/src/qrca-25.08.2.tar.xz",
+                    "sha256": "03654b6ab7d94a24a3f72b07694c291c78e982ea38f56358d5a489e1dc2e1705",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 261558,
