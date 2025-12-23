@@ -56,8 +56,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/polkit-org/polkit/archive/refs/tags/126.tar.gz",
-                    "sha256": "2814a7281989f6baa9e57bd33bbc5e148827e2721ccef22aaf28ab2b376068e8",
+                    "url": "https://github.com/polkit-org/polkit/archive/refs/tags/127.tar.gz",
+                    "sha256": "9b7bc16f086479dcc626c575976568ba4a85d34297a750d8ab3d2e57f6d8b988",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 3682,
@@ -129,8 +129,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/6.20/networkmanager-qt-6.20.0.tar.xz",
-                    "sha256": "6856fecb2933abcdad0a789a179e4054cf24901dc29f943f0036a3e15cf43e86",
+                    "url": "https://download.kde.org/stable/frameworks/6.21/networkmanager-qt-6.21.0.tar.xz",
+                    "sha256": "53530b28d21f19e93f06383f3ffb2f43f94c1bf751a7ea437631a41ed7a5f140",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
