@@ -12,6 +12,17 @@
         "--device=all",
         "--system-talk-name=org.freedesktop.NetworkManager"
     ],
+    "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/lib/girepository-1.0",
+        "/share/doc",
+        "/share/gir-1.0",
+        "/share/gettext",
+        "/share/qlogging-categories6",
+        "*.la",
+        "*.a"
+    ],
     "modules": [
         {
             "name": "libndp",
