@@ -161,8 +161,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.1/src/qrca-25.12.1.tar.xz",
-                    "sha256": "f3b0a40971b1ce5b22fe700528e6d203a6403e130483bc6b772e96dc36a9d28f",
+                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/qrca-25.12.2.tar.xz",
+                    "sha256": "477c8b83915a8e56e2fe7c1ea892cdb0d9283d6e9051030cc7ba9bd53ff073bc",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 261558,
