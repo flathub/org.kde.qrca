@@ -105,7 +105,8 @@
                 "-Dlibpsl=false",
                 "-Dqt=false",
                 "-Dnm_cloud_setup=false",
-                "-Dnbft=false"
+                "-Dnbft=false",
+                "-Dman=false"
             ],
             "cleanup": [
                 "/bin",
