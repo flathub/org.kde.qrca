@@ -141,8 +141,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/6.27/networkmanager-qt-6.27.0.tar.xz",
-                    "sha256": "a8193895b420d576fac228388ba8fd1b24d6f229c43b7963e2ed581ef82cad9a",
+                    "url": "https://download.kde.org/stable/frameworks/6.29/networkmanager-qt-6.29.0.tar.xz",
+                    "sha256": "23f2736fb8f3f0a3ee2f2f1944720206a4d5c532cf7a0a00c8f73aa69d75f588",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
