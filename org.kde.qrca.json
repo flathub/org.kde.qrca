@@ -166,7 +166,7 @@
                     "sha256": "d67d2fa3ba6d96ef73e0335ccd99661c6cd479e99bffc1e3b21ddb23ac21148e",
                     "x-checker-data": {
                         "type": "anitya",
-                        "project-id": 261558,
+                        "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/qrca-$version.tar.xz"
                     }
