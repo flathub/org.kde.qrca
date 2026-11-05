@@ -83,6 +83,7 @@
             "buildsystem": "meson",
             "config-opts": [
                 "-Dsystemdsystemunitdir=no",
+                "-Dsystemdsystemgeneratordir=no",
                 "-Ddbus_conf_dir=/app/etc/dbus-1/system.d",
                 "-Diptables=/usr/bin/true",
                 "-Ddnsmasq=/usr/bin/true",
@@ -106,7 +107,8 @@
                 "-Dqt=false",
                 "-Dnm_cloud_setup=false",
                 "-Dnbft=false",
-                "-Dman=false"
+                "-Dman=false",
+                "-Dclat=false"
             ],
             "cleanup": [
                 "/bin",
